@@ -1,6 +1,7 @@
 <?php
 
 function main(){
-	echo "main";
+	echo "my new main";
+	// Do something else
 	return true;
 }
